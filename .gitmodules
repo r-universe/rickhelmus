@@ -5,6 +5,3 @@
 [submodule "patRoon"]
 	path = patRoon
 	url = https://github.com/rickhelmus/patRoon
-[submodule "patRoonData"]
-	path = patRoonData
-	url = https://github.com/rickhelmus/patRoonData
