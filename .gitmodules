@@ -15,7 +15,7 @@
 	branch = e005614
 [submodule "RDCOMClient"]
 	path = RDCOMClient
-	url = https://github.com/BSchamberger/RDCOMClient
+	url = https://github.com/rickhelmus/RDCOMClient
 [submodule "enviPick"]
 	path = enviPick
 	url = https://github.com/blosloos/enviPick
