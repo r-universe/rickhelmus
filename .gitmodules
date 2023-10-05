@@ -9,16 +9,31 @@
 [submodule "KPIC"]
 	path = KPIC
 	url = https://github.com/rickhelmus/KPIC2
+[submodule "MetaClean"]
+	path = MetaClean
+	url = https://github.com/KelseyChetnik/MetaClean
 [submodule "RAMClustR"]
 	path = RAMClustR
 	url = https://github.com/cbroeckl/RAMClustR
-	branch = e005614
+	branch = e005614d808e0ca93c459ec8cc103b87cd5d11fd
 [submodule "RDCOMClient"]
 	path = RDCOMClient
 	url = https://github.com/rickhelmus/RDCOMClient
+[submodule "cliqueMS"]
+	path = cliqueMS
+	url = https://github.com/rickhelmus/cliqueMS
 [submodule "enviPick"]
 	path = enviPick
 	url = https://github.com/blosloos/enviPick
+[submodule "fastAdaboost"]
+	path = fastAdaboost
+	url = https://github.com/souravc83/fastAdaboost
+[submodule "nontarget"]
+	path = nontarget
+	url = https://github.com/blosloos/nontarget
+[submodule "nontargetData"]
+	path = nontargetData
+	url = https://github.com/blosloos/nontargetData
 [submodule "patRoon"]
 	path = patRoon
 	url = https://github.com/rickhelmus/patRoon
