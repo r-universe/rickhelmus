@@ -37,6 +37,9 @@
 [submodule "patRoon"]
 	path = patRoon
 	url = https://github.com/rickhelmus/patRoon
+[submodule "patRoonInst"]
+	path = patRoonInst
+	url = https://github.com/rickhelmus/patRoonInst
 [submodule "splashR"]
 	path = splashR
 	url = https://github.com/berlinguyinca/spectra-hash
