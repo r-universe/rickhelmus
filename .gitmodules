@@ -11,7 +11,7 @@
 	url = https://github.com/rickhelmus/KPIC2
 [submodule "MS2Quant"]
 	path = MS2Quant
-	url = https://github.com/kruvelab/MS2Quant
+	url = https://github.com/drewszabo/MS2Quant
 	branch = main
 [submodule "MS2Tox"]
 	path = MS2Tox
