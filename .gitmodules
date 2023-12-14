@@ -48,6 +48,9 @@
 [submodule "patRoonInst"]
 	path = patRoonInst
 	url = https://github.com/rickhelmus/patRoonInst
+[submodule "qlcMatrix"]
+	path = qlcMatrix
+	url = https://github.com/cysouw/qlcMatrix
 [submodule "splashR"]
 	path = splashR
 	url = https://github.com/berlinguyinca/spectra-hash
