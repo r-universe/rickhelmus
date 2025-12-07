@@ -27,6 +27,10 @@
 [submodule "RDCOMClient"]
 	path = RDCOMClient
 	url = https://github.com/rickhelmus/RDCOMClient
+[submodule "Rmstoolkitlib"]
+	path = Rmstoolkitlib
+	url = https://github.com/rickhelmus/Rmstoolkitlib
+	branch = main
 [submodule "cliqueMS"]
 	path = cliqueMS
 	url = https://github.com/rickhelmus/cliqueMS
